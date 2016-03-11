@@ -1,0 +1,3 @@
+G:\OneDrive\Documents\Materials\C#\Working\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+G:\OneDrive\Documents\Materials\C#\Working\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\v-marmot\Documents\Homework_Email_Files\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
