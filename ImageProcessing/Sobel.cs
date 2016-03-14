@@ -101,6 +101,7 @@ namespace ImageProcessing
         ///  grayscale-edge image.
         /// </summary>
         ///  <param name="args"> the usual array of command-line argument Strings. </param>
+        /*
         public static void Main(string[] args)
         {
             if (args.Length == 0)
@@ -130,6 +131,7 @@ namespace ImageProcessing
 
             sobelFile(args[0], numIterations, args.Length >= 3);
         }
+        */
     }
 
 }

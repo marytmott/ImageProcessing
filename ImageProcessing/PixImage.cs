@@ -27,8 +27,10 @@ namespace ImageProcessing
         ///  Define any variables associated with a PixImage object here.  These
         ///  variables MUST be private.
         /// </summary>
+        // private int[] pixelData
 
-
+        private int width;
+        private int height;
 
 
         /// <summary>
@@ -40,6 +42,28 @@ namespace ImageProcessing
         public PixImage(int width, int height)
         {
             // Your solution here.
+            // 3 arrays deep--> image > rows > pixels
+            // array info = [0] -> x (i) coord; [1] -> y(j) coord; [2] -> r value; [3] -> g value; [4] -> b value;
+            int[] pixArr = new int[height];
+
+            Console.WriteLine(pixArr.Length);
+
+            // test width of 10, height of 8
+            for (int i = 0; j < width; i++)
+            {
+                // make new row array
+                int[] row = new int[width];
+
+                for (int j = 0; j < height; j++)
+                {
+                    int[] pixel = [i, j, 0, 0, 0];
+                    newRow[i] = pixel;
+                }
+                pixArr[i] = row;
+            }
+
+
+            Console.ReadLine();
         }
 
         /// <summary>
@@ -50,7 +74,7 @@ namespace ImageProcessing
             get
             {
                 // Replace the following line with your solution.
-                return 1;
+                return width;
             }
         }
 
@@ -62,7 +86,7 @@ namespace ImageProcessing
             get
             {
                 // Replace the following line with your solution.
-                return 1;
+                return height;
             }
         }
 
