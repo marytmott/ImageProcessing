@@ -9,3 +9,6 @@ C:\Users\v-marmot\Documents\Homework_Email_Files\ImageProcessing\ImageProcessing
 \\vmware-host\Shared Folders\Documents\Industry_Explorers\projects\pixImage\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
 \\vmware-host\Shared Folders\Documents\Industry_Explorers\projects\pixImage\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
 \\vmware-host\Shared Folders\Documents\Industry_Explorers\projects\pixImage\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\v-marmot\Documents\Homework_Email_Files\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\v-marmot\Documents\Homework_Email_Files\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\v-marmot\Documents\Homework_Email_Files\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache

@@ -44,22 +44,21 @@ namespace ImageProcessing
             // Your solution here.
             // 3 arrays deep--> image > rows > pixels
             // array info = [0] -> x (i) coord; [1] -> y(j) coord; [2] -> r value; [3] -> g value; [4] -> b value;
-            int[] pixArr = new int[height];
+            int[][] pixArr = new int[height][];
 
             Console.WriteLine(pixArr.Length);
 
             // test width of 10, height of 8
-            for (int i = 0; j < width; i++)
+            for (int i = 0; i < width; i++)
             {
                 // make new row array
-                int[] row = new int[width];
-
+                int[][] row = new int[width][];
                 for (int j = 0; j < height; j++)
                 {
                     int[] pixel = [i, j, 0, 0, 0];
-                    newRow[i] = pixel;
+                    row[i] = pixel;
                 }
-                pixArr[i] = row;
+                pixArr[i][] = row;
             }
 
 
